@@ -1,4 +1,4 @@
-**Privacy Policy**
+## Privacy Policy
 
 Jon Loken built the Mentor App app as a Free app. This SERVICE is provided by Jon Loken at no cost and is intended for use as is.
 
@@ -45,7 +45,7 @@ We value your trust in providing us your Personal Information, thus we are striv
 
 ## Children’s Privacy
 
-Application 'Mentor' facilitates 2 parties finding each other (within an organisaiton or school) in order to provide a service. Within a school context it means that pupils can ask for help from other (older) pupils within a subject. Within the app, each school has a designated 'teacher administrator' whoose responsibilities is to ensure only pupils of the school can join. 
+Application 'Mentor' facilitates 2 parties finding each other (within an organisaiton or school) in order to provide a service. Within a school context it means that pupils can ask for help from other (older) pupils within a subject. Within the app, each school has a designated 'teacher administrator' whoose responsibilities is to ensure only pupils of the school can join and are older than an agreed age. 
 Only after the 'requester' accepts an 'offer' will the email of the offeror be shown to the requester in order to arrange a place and time to meet. 
 After the pupils have met, the requester writes a summary of what was accomplished during the session. Before points are exchanged between the requester and the person who offers help, the 'teacher administrator' will see a summary of the transaction and either accept or deny the transaction. The 'teacher administrator' can, if need be, contact either party for further details. 
 If you are a parent or guardian and you wish name/email to be removed from the system, please contact me so that we will be able to do the necessary actions.
