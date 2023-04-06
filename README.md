@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Our privacy policy will help you understand what information we collect at Mentor, how Mentor uses it, and what choices you have. Mentor built the Mentor App app as a Free app. This SERVICE is provided by Mentor at no cost and is intended for use as is.
+Our privacy policy will help you understand what information we collect at Mentor, how Mentor uses it, and what choices you have. Mentor built the Mentor App as a Free app. This SERVICE is provided by Mentor at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -48,7 +48,10 @@ We value your trust in providing us your Personal Information, thus we are striv
 Application 'Mentor' facilitates 2 parties finding each other (within an organisation or school) in order to provide a service between the two parties. Within a school context this means that pupils can ask for help from other (older) pupils within a user specified subject. Within the app, each school has a designated 'teacher administrator' whoose responsibilities is to ensure only pupils of the school can join and are older than an agreed age. 
 Only after the 'requester' accepts an 'offer' will the email of the offeror be shown to the requester in order to arrange a place and time to meet. 
 After the pupils have met, the requester writes a summary of what was accomplished during the session. Before points are exchanged between the requester and the person who offers help, the 'teacher administrator' will see a summary of the transaction and either 'accept' or 'deny' the transaction. The 'teacher administrator' can, if need be, contact either party for further details. 
-If you are a parent or guardian and you wish name/email to be removed from the system, please contact me so that we will be able to do the necessary actions.
+
+## Disabling the account
+Since you can create an account you can also disable the account (i.e. remove private data and disable your account, providing you have 0 or more points). 
+To disable your account, click the 3 dots in upper right hand corner. Click 'My Details' followed by clicking button 'Remove private data from the app and disable my account'. This procedure can be done either using Mentor2Mentor app on your mobile or online: https://mentorbackend.top.
 
 ## Changes to This Privacy Policy
 
